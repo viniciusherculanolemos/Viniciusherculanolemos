@@ -36,7 +36,7 @@
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/react-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 
 <img align="center" alt="html5" 
 src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
