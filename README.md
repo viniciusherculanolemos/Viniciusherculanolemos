@@ -1,5 +1,5 @@
 ### Olá sou Vinicius Herculano 😎
-[![Blog](https://img.shields.io/website-up-down-green-red/http/m.org.svg)](https://herculanocompany.com)
+[![Blog](https://img.shields.io/website-up-down-green-red/http/m.org.svg)](https://herculanoweb.com)
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-herculano-17a82a14a/)
