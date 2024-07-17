@@ -6,7 +6,6 @@
 
 ![Herculano's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusherculanolemos&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusherculanolemos&hide_progress=true)
 
 
 ## Conhecimentos 
