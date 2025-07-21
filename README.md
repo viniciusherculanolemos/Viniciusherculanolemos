@@ -49,7 +49,7 @@ src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&l
 
 °  [Site do Herculanoweb] (http://herculanoweb.com)<br/>
 
-°[Site para uma guia de turismo] (www.Miniguiarj.com)
+°[Site para uma guia de turismo] (www.miniguiarj.com)
 
 
 ° Consultorio Dentista
